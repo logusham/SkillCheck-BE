@@ -1,0 +1,17 @@
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\obj\Debug\net6.0\SkillCheck-BE-DataRepository-Audits.csproj.AssemblyReference.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\obj\Debug\net6.0\SkillCheck-BE-DataRepository-Audits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\obj\Debug\net6.0\SkillCheck-BE-DataRepository-Audits.AssemblyInfoInputs.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\obj\Debug\net6.0\SkillCheck-BE-DataRepository-Audits.AssemblyInfo.cs
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\obj\Debug\net6.0\SkillCheck-BE-DataRepository-Audits.csproj.CoreCompileInputs.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\bin\Debug\net6.0\SkillCheck-BE-DataRepository-Audits.deps.json
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\bin\Debug\net6.0\SkillCheck-BE-DataRepository-Audits.runtimeconfig.json
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\bin\Debug\net6.0\SkillCheck-BE-DataRepository-Audits.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\bin\Debug\net6.0\SkillCheck-BE-DataRepository-Audits.pdb
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\bin\Debug\net6.0\SkillCheck-BE-Entities-Audits.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\bin\Debug\net6.0\SkillCheck-BE-Entities-Audits.pdb
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\obj\Debug\net6.0\SkillCheck-BE-DataRepository-Audits.csproj.CopyComplete
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\obj\Debug\net6.0\SkillCheck-BE-DataRepository-Audits.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\obj\Debug\net6.0\refint\SkillCheck-BE-DataRepository-Audits.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\obj\Debug\net6.0\SkillCheck-BE-DataRepository-Audits.pdb
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\obj\Debug\net6.0\SkillCheck-BE-DataRepository-Audits.genruntimeconfig.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck_API\SkillCheck.DataAccess\obj\Debug\net6.0\ref\SkillCheck-BE-DataRepository-Audits.dll

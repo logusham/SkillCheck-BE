@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SkillCheck-BE-Entities-Audits/1.0.0": {
+        "runtime": {
+          "SkillCheck-BE-Entities-Audits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SkillCheck-BE-Entities-Audits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

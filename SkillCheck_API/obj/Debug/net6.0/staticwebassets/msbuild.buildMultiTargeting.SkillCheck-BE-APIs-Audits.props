@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SkillCheck-BE-APIs-Audits.props" />
+</Project>
