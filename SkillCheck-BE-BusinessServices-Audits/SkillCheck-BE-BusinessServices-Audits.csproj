@@ -8,7 +8,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SkillCheck.DataAccess\SkillCheck-BE-DataRepository-Audits.csproj" />
+    <Folder Include="Mapping\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SkillCheck-BE-DataRepository-Audits\SkillCheck_BE_DataRepository_Audits.csproj" />
+    <ProjectReference Include="..\SkillCheck-BE-DTOs-Audits\SkillCheck-BE-DTOs-Audits.csproj" />
+    <ProjectReference Include="..\SkillCheck_BE-Entities-Audits\SkillCheck_BE-Entities-Audits.csproj" />
   </ItemGroup>
 
 </Project>

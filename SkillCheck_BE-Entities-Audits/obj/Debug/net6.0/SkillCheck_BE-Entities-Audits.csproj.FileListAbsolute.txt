@@ -1,0 +1,24 @@
+C:\Users\Gokul\OneDrive\Desktop\New folder\Skillcheck_Audit_Service\SkillCheck_BE-Entities-Audits\bin\Debug\net6.0\SkillCheck_BE-Entities-Audits.deps.json
+C:\Users\Gokul\OneDrive\Desktop\New folder\Skillcheck_Audit_Service\SkillCheck_BE-Entities-Audits\bin\Debug\net6.0\SkillCheck_BE-Entities-Audits.dll
+C:\Users\Gokul\OneDrive\Desktop\New folder\Skillcheck_Audit_Service\SkillCheck_BE-Entities-Audits\bin\Debug\net6.0\SkillCheck_BE-Entities-Audits.pdb
+C:\Users\Gokul\OneDrive\Desktop\New folder\Skillcheck_Audit_Service\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\SkillCheck_BE-Entities-Audits.csproj.AssemblyReference.cache
+C:\Users\Gokul\OneDrive\Desktop\New folder\Skillcheck_Audit_Service\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\SkillCheck_BE-Entities-Audits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokul\OneDrive\Desktop\New folder\Skillcheck_Audit_Service\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\SkillCheck_BE-Entities-Audits.AssemblyInfoInputs.cache
+C:\Users\Gokul\OneDrive\Desktop\New folder\Skillcheck_Audit_Service\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\SkillCheck_BE-Entities-Audits.AssemblyInfo.cs
+C:\Users\Gokul\OneDrive\Desktop\New folder\Skillcheck_Audit_Service\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\SkillCheck_BE-Entities-Audits.csproj.CoreCompileInputs.cache
+C:\Users\Gokul\OneDrive\Desktop\New folder\Skillcheck_Audit_Service\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\SkillCheck_BE-Entities-Audits.dll
+C:\Users\Gokul\OneDrive\Desktop\New folder\Skillcheck_Audit_Service\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\refint\SkillCheck_BE-Entities-Audits.dll
+C:\Users\Gokul\OneDrive\Desktop\New folder\Skillcheck_Audit_Service\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\SkillCheck_BE-Entities-Audits.pdb
+C:\Users\Gokul\OneDrive\Desktop\New folder\Skillcheck_Audit_Service\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\ref\SkillCheck_BE-Entities-Audits.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck_BE-Entities-Audits\bin\Debug\net6.0\SkillCheck_BE-Entities-Audits.deps.json
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck_BE-Entities-Audits\bin\Debug\net6.0\SkillCheck_BE-Entities-Audits.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck_BE-Entities-Audits\bin\Debug\net6.0\SkillCheck_BE-Entities-Audits.pdb
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\SkillCheck_BE-Entities-Audits.csproj.AssemblyReference.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\SkillCheck_BE-Entities-Audits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\SkillCheck_BE-Entities-Audits.AssemblyInfoInputs.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\SkillCheck_BE-Entities-Audits.AssemblyInfo.cs
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\SkillCheck_BE-Entities-Audits.csproj.CoreCompileInputs.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\SkillCheck_BE-Entities-Audits.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\refint\SkillCheck_BE-Entities-Audits.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\SkillCheck_BE-Entities-Audits.pdb
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck_BE-Entities-Audits\obj\Debug\net6.0\ref\SkillCheck_BE-Entities-Audits.dll

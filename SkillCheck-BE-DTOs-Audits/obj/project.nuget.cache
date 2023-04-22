@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yIZPFqE5IsQ2l13hthuIighSgthstfYFjDoLN4MU5meIfHUHVqBxZtpAqSUVdQ2IohwV8LcHmF0F2ZFaDyHHwA==",
+  "dgSpecHash": "svCUFO8yqdtUEqJTnZTKlJWLvXl8XZJxpYwBURrrHvLYHd6yqCBodIeDSi2TgR8bXnJUGoxYiEgh9iWib7/ozw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck_API\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj",
+  "projectFilePath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

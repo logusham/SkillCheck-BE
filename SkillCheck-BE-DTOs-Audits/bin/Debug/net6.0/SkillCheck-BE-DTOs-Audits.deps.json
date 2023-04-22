@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "SkillCheck-BE-DTOs-Audits/1.0.0": {
+        "dependencies": {
+          "SkillCheck_BE-Entities-Audits": "1.0.0"
+        },
         "runtime": {
           "SkillCheck-BE-DTOs-Audits.dll": {}
+        }
+      },
+      "SkillCheck_BE-Entities-Audits/1.0.0": {
+        "runtime": {
+          "SkillCheck_BE-Entities-Audits.dll": {}
         }
       }
     }
   },
   "libraries": {
     "SkillCheck-BE-DTOs-Audits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SkillCheck_BE-Entities-Audits/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

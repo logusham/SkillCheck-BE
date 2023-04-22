@@ -1,15 +1,10 @@
-﻿using Master;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using SkillCheck_BE_DTOs_Audits.MasterDto;
 
 namespace SkillCheck_BE_BusinessServices_Audits.Service.Interface
 {
     public interface ITechnologyService
     {
-        IEnumerable<Technology> GetTechnologies(Guid UserId);
-        Technology GetTechnology(Guid BatchId, Guid UserId);
+        Task<IEnumerable<TechnologyDto>> GetAllTechnologiesSevice();
+        Task<IEnumerable<TechnologyDto>> GetAllTechnologiesByUserService(Guid userId);
     }
 }

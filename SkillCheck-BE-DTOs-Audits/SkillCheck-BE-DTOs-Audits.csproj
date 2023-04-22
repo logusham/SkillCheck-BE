@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SkillCheck_BE-Entities-Audits\SkillCheck_BE-Entities-Audits.csproj" />
+  </ItemGroup>
+
 </Project>
