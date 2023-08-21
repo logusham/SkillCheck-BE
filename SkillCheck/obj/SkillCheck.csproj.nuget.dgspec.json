@@ -1,45 +1,41 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck\\SkillCheck.csproj": {}
+    "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck\\SkillCheck.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-BusinessServices-Audits\\SkillCheck-BE-BusinessServices-Audits.csproj": {
+    "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-BusinessServices-Audits\\SkillCheck-BE-BusinessServices-Audits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-BusinessServices-Audits\\SkillCheck-BE-BusinessServices-Audits.csproj",
+        "projectUniqueName": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-BusinessServices-Audits\\SkillCheck-BE-BusinessServices-Audits.csproj",
         "projectName": "SkillCheck-BE-BusinessServices-Audits",
-        "projectPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-BusinessServices-Audits\\SkillCheck-BE-BusinessServices-Audits.csproj",
-        "packagesPath": "C:\\Users\\Gokul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-BusinessServices-Audits\\obj\\",
+        "projectPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-BusinessServices-Audits\\SkillCheck-BE-BusinessServices-Audits.csproj",
+        "packagesPath": "C:\\Users\\TEMP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-BusinessServices-Audits\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Gokul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\TEMP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\SkillCheck_BE_DataRepository_Audits.csproj": {
-                "projectPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\SkillCheck_BE_DataRepository_Audits.csproj"
+              "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\SkillCheck_BE_DataRepository_Audits.csproj": {
+                "projectPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\SkillCheck_BE_DataRepository_Audits.csproj"
               },
-              "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj": {
-                "projectPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj"
+              "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj": {
+                "projectPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj"
               },
-              "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj": {
-                "projectPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj"
+              "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj": {
+                "projectPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj"
               }
             }
           }
@@ -75,43 +71,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\SkillCheck_BE_DataRepository_Audits.csproj": {
+    "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\SkillCheck_BE_DataRepository_Audits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\SkillCheck_BE_DataRepository_Audits.csproj",
+        "projectUniqueName": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\SkillCheck_BE_DataRepository_Audits.csproj",
         "projectName": "SkillCheck_BE_DataRepository_Audits",
-        "projectPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\SkillCheck_BE_DataRepository_Audits.csproj",
-        "packagesPath": "C:\\Users\\Gokul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\obj\\",
+        "projectPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\SkillCheck_BE_DataRepository_Audits.csproj",
+        "packagesPath": "C:\\Users\\TEMP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Gokul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\TEMP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj": {
-                "projectPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj"
+              "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj": {
+                "projectPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj"
               },
-              "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj": {
-                "projectPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj"
+              "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj": {
+                "projectPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj"
               }
             }
           }
@@ -161,40 +153,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj": {
+    "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj",
+        "projectUniqueName": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj",
         "projectName": "SkillCheck-BE-DTOs-Audits",
-        "projectPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj",
-        "packagesPath": "C:\\Users\\Gokul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\obj\\",
+        "projectPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\SkillCheck-BE-DTOs-Audits.csproj",
+        "packagesPath": "C:\\Users\\TEMP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DTOs-Audits\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Gokul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\TEMP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj": {
-                "projectPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj"
+              "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj": {
+                "projectPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj"
               }
             }
           }
@@ -224,43 +212,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck\\SkillCheck.csproj": {
+    "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck\\SkillCheck.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck\\SkillCheck.csproj",
+        "projectUniqueName": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck\\SkillCheck.csproj",
         "projectName": "SkillCheck",
-        "projectPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck\\SkillCheck.csproj",
-        "packagesPath": "C:\\Users\\Gokul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck\\obj\\",
+        "projectPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck\\SkillCheck.csproj",
+        "packagesPath": "C:\\Users\\TEMP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Gokul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\TEMP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-BusinessServices-Audits\\SkillCheck-BE-BusinessServices-Audits.csproj": {
-                "projectPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-BusinessServices-Audits\\SkillCheck-BE-BusinessServices-Audits.csproj"
+              "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-BusinessServices-Audits\\SkillCheck-BE-BusinessServices-Audits.csproj": {
+                "projectPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-BusinessServices-Audits\\SkillCheck-BE-BusinessServices-Audits.csproj"
               },
-              "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\SkillCheck_BE_DataRepository_Audits.csproj": {
-                "projectPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\SkillCheck_BE_DataRepository_Audits.csproj"
+              "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\SkillCheck_BE_DataRepository_Audits.csproj": {
+                "projectPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck-BE-DataRepository-Audits\\SkillCheck_BE_DataRepository_Audits.csproj"
               }
             }
           }
@@ -325,32 +309,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj": {
+    "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj",
+        "projectUniqueName": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj",
         "projectName": "SkillCheck_BE-Entities-Audits",
-        "projectPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj",
-        "packagesPath": "C:\\Users\\Gokul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\obj\\",
+        "projectPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj",
+        "packagesPath": "C:\\Users\\TEMP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Gokul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\TEMP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -384,7 +364,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,31 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Gokul\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\TEMP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj",
+      "projectUniqueName": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj",
       "projectName": "SkillCheck_BE-Entities-Audits",
-      "projectPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj",
-      "packagesPath": "C:\\Users\\Gokul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gokul\\OneDrive\\Desktop\\Dotnet-A\\API\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\obj\\",
+      "projectPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\SkillCheck_BE-Entities-Audits.csproj",
+      "packagesPath": "C:\\Users\\TEMP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TEMP\\Desktop\\DotNet Project\\SkillCheck-BE\\SkillCheck_BE-Entities-Audits\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Gokul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\TEMP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

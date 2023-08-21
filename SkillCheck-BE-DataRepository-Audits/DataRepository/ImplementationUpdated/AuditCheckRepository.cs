@@ -1,19 +1,15 @@
 ﻿using SkillCheck_BE_DataRepository_Audits.DataAccess;
 using SkillCheck_BE_DataRepository_Audits.DataRepository.InterfaceUpdated;
 using SkillCheck_BE_Entities_Audits.EntitiesUpdated;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SkillCheck_BE_DataRepository_Audits.DataRepository.ImplementationUpdated
 {
     public class AuditCheckRepository : GenericRepository<AuditCheck>, IAuditCheckRepository
     {
-        public AuditCheckRepository(SkillCheckDb context) : base(context)
+        private readonly SkillCheckDbContext _dbContext;
+        public AuditCheckRepository(SkillCheckDbContext context) : base(context)
         {
-
+            _dbContext = context;
         }
 
         public Task<IEnumerable<AuditCheck>> GetAllModuleByTechnologies(long technologyId)

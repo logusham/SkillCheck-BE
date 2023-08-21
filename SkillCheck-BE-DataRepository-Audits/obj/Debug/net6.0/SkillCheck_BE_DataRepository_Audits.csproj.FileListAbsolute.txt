@@ -25,3 +25,22 @@ C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck-BE-DataRep
 C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\obj\Debug\net6.0\SkillCheck_BE_DataRepository_Audits.dll
 C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\obj\Debug\net6.0\refint\SkillCheck_BE_DataRepository_Audits.dll
 C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\obj\Debug\net6.0\SkillCheck_BE_DataRepository_Audits.pdb
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\obj\Debug\net6.0\SkillCheck_BE_DataRepository_Audits.csproj.AssemblyReference.cache
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\obj\Debug\net6.0\SkillCheck_BE_DataRepository_Audits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\obj\Debug\net6.0\SkillCheck_BE_DataRepository_Audits.AssemblyInfoInputs.cache
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\obj\Debug\net6.0\SkillCheck_BE_DataRepository_Audits.AssemblyInfo.cs
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\obj\Debug\net6.0\SkillCheck_BE_DataRepository_Audits.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\obj\Debug\net6.0\SkillCheck_BE_DataRepository_Audits.dll
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\obj\Debug\net6.0\refint\SkillCheck_BE_DataRepository_Audits.dll
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\obj\Debug\net6.0\SkillCheck_BE_DataRepository_Audits.pdb
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\bin\Debug\net6.0\SkillCheck_BE_DataRepository_Audits.deps.json
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\bin\Debug\net6.0\SkillCheck_BE_DataRepository_Audits.runtimeconfig.json
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\bin\Debug\net6.0\SkillCheck_BE_DataRepository_Audits.dll
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\bin\Debug\net6.0\SkillCheck_BE_DataRepository_Audits.pdb
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\bin\Debug\net6.0\SkillCheck-BE-DTOs-Audits.dll
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\bin\Debug\net6.0\SkillCheck_BE-Entities-Audits.dll
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\bin\Debug\net6.0\SkillCheck-BE-DTOs-Audits.pdb
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\bin\Debug\net6.0\SkillCheck_BE-Entities-Audits.pdb
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\obj\Debug\net6.0\SkillCheck_BE_DataRepository_Audits.csproj.CopyComplete
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\obj\Debug\net6.0\SkillCheck_BE_DataRepository_Audits.genruntimeconfig.cache
+C:\Users\TEMP\Desktop\DotNet Project\SkillCheck-BE\SkillCheck-BE-DataRepository-Audits\obj\Debug\net6.0\ref\SkillCheck_BE_DataRepository_Audits.dll
